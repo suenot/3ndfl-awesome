@@ -1,1 +1,13 @@
-# 3ndfl-awesome
+# 3-НДФЛ
+
+## Скрипты для составления брокерских отчетов
+  - [jal](https://github.com/titov-vv/jal/blob/master/docs/README.ru.md) - написан на python3, поддерживает Quik HTML-отчёт, Interactive brokers, Уралсиб Кэпитал (exel), КИТ Финанс (exel)
+  - [KonishchevDmitry/investments](https://github.com/KonishchevDmitry/investments) - написан на rust для Interactive Brokers, Тинькофф, Firstrade, Открытие Брокер, БКС.
+  - [flmnvd/3ndfl](https://github.com/airens/interactive_brokers_tax) - написан на python3 для Interactive Brokers, не поддерживает фьючерсы, опционы, short, reverse split
+  - [bit-world/3ndfl](https://github.com/bit-world/3ndfl) - написан на php, поддерживает тинькофф и exel
+  - [airens/interactive_brokers_tax](https://github.com/airens/interactive_brokers_tax) - написан python3 для Interactive Brokers
+  - [ibtaxes](https://github.com/igor58279/ibtaxes) - написан на java для Interactive Brokers
+  - [flmnvd/3ndfl](https://github.com/flmnvd/3ndfl) - программа в разработке, пишется на python/qt
+
+## Гугл таблицы для составления брокерских отчеров
+- [Инвест учет](https://vc.ru/finance/194863-kak-ya-optimiziroval-podachu-3-ndfl-po-dividendam-s-pomoshchyu-google-tablic-teper-eto-5-10-minut-vmesto-neskolkih-chasov)
