@@ -9,6 +9,7 @@
   - [airens/interactive_brokers_tax](https://github.com/airens/interactive_brokers_tax) - написан python3 для Interactive Brokers
   - [ibtaxes](https://github.com/igor58279/ibtaxes) - написан на java для Interactive Brokers
   - [flmnvd/3ndfl](https://github.com/flmnvd/3ndfl) - программа в разработке, пишется на python/qt
+  - [eSKond/interactive_brokers_tax](https://github.com/eSKond/interactive_brokers_tax) - написан на python для Interactive Brokers
 
 ## Гугл таблицы для составления брокерских отчеров
 - [Инвест учет](https://vc.ru/finance/194863-kak-ya-optimiziroval-podachu-3-ndfl-po-dividendam-s-pomoshchyu-google-tablic-teper-eto-5-10-minut-vmesto-neskolkih-chasov)
