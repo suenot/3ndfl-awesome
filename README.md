@@ -1,6 +1,7 @@
 # 3-НДФЛ
 
 ## Скрипты для составления брокерских отчетов
+  - [Konard/3-ndfl](https://github.com/Konard/3-ndfl) - 3-ndfl.dc1 -> xml
   - [telegram bot](https://investor-declaration-3-ndfl.ru/) - tinkoff, vtb, sber, alfa -> xml
   - [jal](https://github.com/titov-vv/jal/blob/master/docs/README.ru.md) - написан на python3, поддерживает Quik HTML-отчёт, Interactive brokers, Уралсиб Кэпитал (exel), КИТ Финанс (exel)
   - [KonishchevDmitry/investments](https://github.com/KonishchevDmitry/investments) - написан на rust для Interactive Brokers, Тинькофф, Firstrade, Открытие Брокер, БКС.
