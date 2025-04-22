@@ -15,5 +15,8 @@
 ## Гугл таблицы для составления брокерских отчеров
 - [Инвест учет](https://vc.ru/finance/194863-kak-ya-optimiziroval-podachu-3-ndfl-po-dividendam-s-pomoshchyu-google-tablic-teper-eto-5-10-minut-vmesto-neskolkih-chasov)
 
+## Платные сервисы
+  - [ndfl.guru](https://ndfl.guru) - interactive brokers, freedom finance (цифра брокер), т-инвестиции, finam, BCS, J2T и другие
+
 ## Статьи
-[3-НДФЛ 2020: отчитываемся об иностранных дивидендах через программу «Декларация»](https://journal.open-broker.ru/taxes/ndfl-otchityvaemsya-ob-inostrannyh-dividendah-cherez-programmu-deklaraciya/)
+- [3-НДФЛ 2020: отчитываемся об иностранных дивидендах через программу «Декларация»](https://journal.open-broker.ru/taxes/ndfl-otchityvaemsya-ob-inostrannyh-dividendah-cherez-programmu-deklaraciya/)
